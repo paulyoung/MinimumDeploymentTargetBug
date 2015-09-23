@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+xcodebuild -workspace MinimumDeploymentTargetBug.xcworkspace -scheme MinimumDeploymentTargetBug -sdk iphonesimulator -configuration Debug clean build

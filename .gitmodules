@@ -1,0 +1,6 @@
+[submodule "External/the-grid/ImgFlo.swift"]
+	path = External/the-grid/ImgFlo.swift
+	url = git@github.com:the-grid/ImgFlo.swift.git
+[submodule "External/soffes/Crypto"]
+	path = External/soffes/Crypto
+	url = git@github.com:soffes/Crypto.git
